@@ -1,0 +1,16 @@
+
+# Ignore raw and processed datasets
+data/
+
+# Python environment
+myenv/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Secrets
+.env
